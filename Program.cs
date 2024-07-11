@@ -18,6 +18,8 @@
         public string Occurennce(string input)
         {
             //string rev = string.Empty;
+
+
             while (input.Length > 0)
             {
                 Console.Write(input[0] + ":");
